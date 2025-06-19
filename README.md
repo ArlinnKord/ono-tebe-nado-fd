@@ -1,1 +1,1 @@
-https://github.com/ArlinnKord/ono-tebe-nado
+https://github.com/ArlinnKord/ono-tebe-nado-fd
